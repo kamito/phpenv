@@ -50,6 +50,9 @@ CONFIGURE_OPTIONS="--with-apxs2=/usr/bin/apxs2
                    --enable-igbinary
                    --enable-memcached
                    --enable-memcached-igbinary
+                   --enable-fpm
+                   --with-fpm-user=kamito
+                   --with-fpm-group-=kamito
                    "
 
 MANUAL_EXTENSIONS=('http' 'uri-template' 'xdebug')
