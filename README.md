@@ -1,3 +1,6 @@
+## This is forked repository.
+original repository is a https://github.com/phpenv/phpenv
+
 ## phpenv - PHP multi-version installation and management for humans.
 
 ### Key features:
